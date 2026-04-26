@@ -14,7 +14,7 @@ An intelligent web-based prototype designed to help recruiters streamline the ta
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v18 or higher recommended)
 - `npm`
-
+- Create the Virtual Environment : python -m venv venv
 ### Running Locally
 
 1. **Navigate to the app directory:**
@@ -26,13 +26,15 @@ An intelligent web-based prototype designed to help recruiters streamline the ta
    ```bash
    npm install
    ```
-
-3. **Start the development server:**
+3. **Install all of these modules**
    ```bash
-   npm run dev
+   pip install streamlit google-generativeai PyPDF2
    ```
-
-4. **Access the Application:**
+4. **Start the development server:**
+   ```bash
+   streamlit run app.py
+   ```
+5. **Access the Application:**
    Open your browser and navigate to `http://localhost:5173`.
 
 ## Architecture Diagram
