@@ -79,3 +79,10 @@ The Interest Score simulates the candidate's genuine interest in the role after 
 - `scout-app/src/services/aiService.ts`: Core AI integration logic and local fallbacks.
 - `scout-app/src/data/mockCandidates.ts`: The static database of candidate profiles.
 - `sample_io.md`: Example inputs and outputs used for validation.
+
+### Screenshots
+
+<img width="959" height="386" alt="image" src="https://github.com/user-attachments/assets/a0621b18-4e88-4d89-8e0d-025afc620ed7" />
+<img width="562" height="328" alt="image" src="https://github.com/user-attachments/assets/642899a7-7eb5-4fd1-8cc3-f3da0f875379" />
+
+
