@@ -3,7 +3,7 @@ import { Candidate } from '../data/mockCandidates';
 
 // Warning: In a production app, never expose your API key on the frontend.
 // For this prototype/demo, we use it directly or fallback to mock data.
-const API_KEY = "AIzaSyD1W6sI55mzgwnJcibCu6VGSVyenrnAJ3g";
+const API_KEY = " ";
 
 export interface AIResult {
   matchScore: number;
